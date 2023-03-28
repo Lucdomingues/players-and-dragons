@@ -67,6 +67,7 @@
 ## Sobre o projeto
 
 Para este projeto, foi aplicado os princípios da arquitetura SOLID e os princípios de POO em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos RPG (Role Playing Game).
+Utilizando TypeScript juntamente com JavaScript e Node.js, com Docker para a conteinerização.
 
 
 <p align="right">(<a href="#readme-top">de volta para o topo</a>)</p>
