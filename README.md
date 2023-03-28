@@ -66,11 +66,7 @@
 <!-- SOBRE O PROJETO -->
 ## Sobre o projeto
 
-Para este projeto, foi criado uma loja de itens medievais, no formato de uma API, utilizando Typescript.
-
-Foi desenvolvido todas as camadas da aplicação (Models, Service e Controllers) e, por meio dessa aplicação, será possível realizar as operações básicas que se pode fazer em um determinado banco de dados: Criação, Leitura, Atualização e Exclusão (ou CRUD - Create, Read, Update e Delete).
-
-Foi criado também alguns endpoints que irão ler e escrever em um banco de dados, utilizando o MySQL..
+Para este projeto, foi aplicado os princípios da arquitetura SOLID e os princípios de POO em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos RPG (Role Playing Game).
 
 
 <p align="right">(<a href="#readme-top">de volta para o topo</a>)</p>
@@ -82,8 +78,6 @@ Foi criado também alguns endpoints que irão ler e escrever em um banco de dado
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="java-script" width="50" height="50"/>
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="node" width="50" height="50"/>
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="50"/>
 <p align="right">(<a href="#readme-top">de volta para o topo</a>)</p>
 
