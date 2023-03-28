@@ -13,6 +13,22 @@ export default class Elf extends Race {
     Elf.createdRacesInstances();
   }
 
+  get name(): string {
+    return this.name;
+  }
+
+  set name(name: string) {
+    this.name = name;
+  }
+
+  get dexterity(): number {
+    return this.dexterity;
+  }
+
+  set dexterity(dexterity: number) {
+    this.dexterity = dexterity;
+  }
+
   static createdRacesInstances(): number {    
     return Elf.instancescCount;
   }
