@@ -94,7 +94,7 @@ Para fazer um **COPY** desse projeto em sua máquina localmente, siga às etapas
 
   - Use o comando: 
    ```sh
-   git clone git@github.com:Lucdomingues/Smith.git
+   git clone git@github.com:Lucdomingues/players-and-dragons.git
    ```
   2. Instale as dependências
    ```sh
